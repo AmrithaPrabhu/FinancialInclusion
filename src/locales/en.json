@@ -1,0 +1,106 @@
+{
+    "govtSchemes": {
+        "title": "Find Government Schemes",
+        "gender": "Gender",
+        "selectGender": "Select gender",
+        "male": "Male",
+        "female": "Female",
+        "other": "Other",
+        "age": "Age",
+        "state": "State",
+        "query": "Your Interest",
+        "queryPlaceholder": "e.g. Education, Loans, Women, Farmer",
+        "reset": "Reset",
+        "find": "Find Schemes",
+        "loading": "Searching...",
+        "selectState": "Select state",
+        "typeInYourLanguage": "You can type in your preferred language (Hindi, Marathi etc)."
+    },
+    "states": {
+        "maharashtra": "Maharashtra",
+        "delhi": "Delhi",
+        "uttarPradesh": "Uttar Pradesh",
+        "karnataka": "Karnataka"
+    },
+    "home": {
+        "heading": "Financial Awareness",
+        "planner": {
+            "title": "📈 Investment Planner",
+            "description": "Explore and compare various investment options like SIPs, FDs, Bonds, and Real Estate. Use our interactive tool to simulate returns and assess risk levels based on your preferences."
+        },
+        "schemes": {
+            "title": "🏛️ Govt Schemes Finder",
+            "description": "Explore personalized government schemes based on your age, gender, and state. From education to entrepreneurship, uncover programs designed to support your growth."
+        },
+        "needs": {
+            "title": "🧺 Needs vs Wants",
+            "description": "Learn to distinguish between essential needs and lifestyle wants through an interactive drag-and-drop game. This foundational level builds budgeting awareness and spending discipline."
+        },
+        "scam": {
+            "title": "🕵️ Scam Buster",
+            "description": "Test your ability to spot financial scams! Read real-world scenarios and identify red flags to stay safe from frauds like phishing, Ponzi schemes, and fake investment apps."
+        }
+    },
+    "need": {
+        "gameTitle": "Needs vs Wants",
+        "gameInstructions": "Drag each item to its correct category",
+        "score": "Score",
+        "needs": "Needs",
+        "wants": "Wants",
+        "completionMessage": "Great job! You completed the level!",
+        "restart": "Restart",
+        "items": {
+            "Rent": "Rent",
+            "Groceries": "Groceries",
+            "Electricity Bill": "Electricity Bill",
+            "Movie Tickets": "Movie Tickets",
+            "New Phone": "New Phone",
+            "Ice Cream": "Ice Cream"
+        }
+    },
+    "scam": {
+        "title": "Scam Spotting Game",
+        "howToSpot": "How to Spot Online Scams",
+        "clues": "Scam Clues Summary",
+        "start": "Start Game",
+        "question": "Is this scenario a scam?",
+        "correct": "Correct!",
+        "wrong": "Not quite.",
+        "scam": "It is a Scam",
+        "safe": "It is Safe",
+        "next": "Next",
+        "result": "Show Result",
+        "score": "Your Score",
+        "playAgain": "Play Again",
+        "tip1": "Beware of urgent requests for money or OTP.",
+        "tip2": "Check for spelling errors and unknown links.",
+        "tip3": "Never share OTP, passwords, or personal info over calls/SMS.",
+        "tip4": "Verify links and contact sources before acting.",
+        "clue1": "Sense of urgency — \"Act Now!\"",
+        "clue2": "Suspicious links — misspelled domains or shortened URLs",
+        "clue3": "Unverified caller — asking personal or bank details",
+        "clue4": "Fake rewards — free gifts, lottery wins"
+    },
+    "planner": {
+        "investmentPlanner": "📈 Investment Planner",
+        "amountLabel": "Investment Amount (₹):",
+        "durationLabel": "Duration (years):",
+        "riskLabel": "Risk Preference:",
+        "low": "Low",
+        "medium": "Medium",
+        "high": "High",
+        "compareButton": "Compare Investments",
+        "comparisonResults": "📊 Comparison Results",
+        "type": "Type",
+        "return": "Est. Return",
+        "risk": "Risk",
+        "finalAmount": "Final Amount"
+    },
+    "investmentGraph": {
+        "title": "Projected Returns on ₹{{amount}}",
+        "legend": "Estimated Return",
+        "returns": "Returns",
+        "years": "{{count}} Year",
+        "years_plural": "{{count}} Years"
+    }
+}
